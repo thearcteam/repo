@@ -3,7 +3,7 @@ The Arc - YouTube Archive Website
 
 ## The Arc Repository
 
-[brave_daves_big_fat_freight_hop/index.html](Brave Dave's Big Fat Freight Hop)
+[https://arc.alteredgeno.me/brave_daves_big_fat_freight_hop/index.html](Brave Dave's Big Fat Freight Hop)
 
 ## About
 
